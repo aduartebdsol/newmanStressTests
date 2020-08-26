@@ -12,5 +12,5 @@ En el archivo index.js esta el contenido de la collection:
     collection: 'https://www.getpostman.com/collections/f731a92bd2449e359ffc',
 
 
-Aca indicas cantidad de "threats" que corren en paralelo
-const PARALLEL_RUN_COUNT = 10
+Aca indicas cantidad de "threats" que corren en paralelo:
+    const PARALLEL_RUN_COUNT = 10
