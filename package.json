@@ -1,0 +1,16 @@
+{
+  "name": "newmanStressTests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aduartebdsol/newmanStressTests.git",
+  "author": "aduartebdsol <aduarte@bdsol.com.ar>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "newman": "^4.5.6",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
